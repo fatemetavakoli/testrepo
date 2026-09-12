@@ -2,3 +2,5 @@ print("Hello World!")
 a = 10
 b = 1
 print(a+b)
+
+print(a*b)
